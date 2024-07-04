@@ -2,3 +2,29 @@
     margin: 0px;padding:0px;
 
 }
+#para1 {color:red;
+text-align: center;}
+.para2{color:blue;
+    text-align: center;
+    font-size: larger;
+
+
+}
+
+/*css background property */
+body{
+    background-color:rgb(55, 51, 51);
+    /* background-image: url(/images/istockphoto-92661399-1024x1024.jpg); */
+}
+.new-back{
+    background-color: beige;
+    /* display: inline; */
+    text-align: center;
+    color:red;}
+    .new-back2{
+color:aliceblue;
+text-align:center;
+background-color: blueviolet;
+/* background: ; */
+margin:20px 20px 10px 30px;
+    }
