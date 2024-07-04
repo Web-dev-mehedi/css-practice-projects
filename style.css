@@ -28,3 +28,18 @@ background-color: blueviolet;
 /* background: ; */
 margin:20px 20px 10px 30px;
     }
+    .colorx{
+       background-color: red;
+       width: 400px;
+       height: 300px;
+       /* justify-content:right; */
+    /* display: block; */
+margin: auto;
+border: 10px solid rgb(125, 165, 107);
+border-radius: 10px;
+margin-top: 100px;
+margin-bottom: 100px;
+opacity: 40%;
+
+}
+       
