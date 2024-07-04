@@ -4,22 +4,24 @@
 }
 #para1 {color:red;
 text-align: center;
-background-image: url("Y2lkPTc5MGI3NjExaXprOTEzdnF1dTUxMXR2bHU3MXpxdmhmenk4anBqNXZoMTdoZTJybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw");}
+background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXprOTEzdnF1dTUxMXR2bHU3MXpxdmhmenk4anBqNXZoMTdoZTJybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwyEGK6KA41lcEU/giphy.webp");}
+
 .para2{color:blue;
     text-align: center;
     font-size: larger;
 background: scroll;
-
+background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXprOTEzdnF1dTUxMXR2bHU3MXpxdmhmenk4anBqNXZoMTdoZTJybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwyEGK6KA41lcEU/giphy.webp");
 }
 
 /*css background property */
-body{
+ body{
     /* background-color:rgb(3, 89, 3); */
-    background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGR4NTJ0MzVjM3k5NXo0MjBkNzZ5a2s5Mm42ajFrcXA1cHFjY2RibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JdW935RPZQlOgMw/giphy.webp");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size:cover;
-    /* background:scroll; */
+    background: red url("images/abstract-blur-empty-green-gradient-studio-well-use-as-background-website-template-frame-business-report.jpg")  right top;
+    /* background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+    */
+  background-repeat:round ;
 }
 .new-back{
     background-color: beige;
